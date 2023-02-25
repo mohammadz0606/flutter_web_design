@@ -1,16 +1,9 @@
-# flutter_web
+# Flutter Responsive Design
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div>
+<h2>Screenshots</h2>
+<br>
+<img src = "https://user-images.githubusercontent.com/105930030/221360308-2721b8b0-eb09-43e7-b971-3a8f331f01b0.png" width = "500">
+<br>
+<img src = "https://user-images.githubusercontent.com/105930030/221360380-ef9c0494-65a3-460f-8b61-751ffc42eee7.png" width = "500">
+</div>
